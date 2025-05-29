@@ -1,6 +1,6 @@
 # Pac-Man demo for TD Learning
 
-A minimalist grid-world Pac-Man implementation using TD learning in Python with `pygame`.  
+A minimalist grid-world Pac-Man implementation using temporal difference (TD) learning in Python with `pygame`.  
 This game was written as a demo to show **neuroscientists** how reward prediction error (RPE) is used to update value.
 
 **Features**:
