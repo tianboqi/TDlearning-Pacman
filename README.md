@@ -5,7 +5,7 @@ This game was written as a demo to show **neuroscientists** how reward predictio
 
 **Features**:
 - Keyboard-controlled Pac-Man
-- State value function visualization (color-coded)
+- State value function visualization by color-coded
 - TD(0) learning updates on every step
 - Optional random-policy and epsilon-greedy simulation for auto-learning
 
